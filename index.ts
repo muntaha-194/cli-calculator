@@ -29,7 +29,7 @@ if (answer.operator === "Addition") {
 } else if (answer.operator === "Multiplication") {
   console.log(answer.firstNumber * answer.secondNumber);
 } else {
-  console.log("please select valid operator");
+  console.log("\nplease select valid operator");
 }
 
-console.log("THE END");
+console.log("\nTHE END");
